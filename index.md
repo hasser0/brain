@@ -1,5 +1,8 @@
 ## Table of contents
 
++ [Logic](/logic/)
+    + [Boolean algebra](/logic/boolean_algebra/)
+    + [Propositional logic](/logic/propositions/)
 + [Set theory](/set_theory/)
     + [Axioms](/set_theory/axioms/)
     + [Relations](/set_theory/relations/)
@@ -16,6 +19,8 @@
         + [PDA](/automata_theory/context_free_language/pushdown_automata.md)
         + [DPDA](/automata_theory/context_free_language/deterministic_pushdown_automata.md)
         + [CFG](/automata_theory/context_free_language/context_free_grammar.md)
+    + [Recursive enumerable languages](/automata_theory/recursive_enumerable_language/)
+        + [Turing machine](/automata_theory/recursive_enumerable_language/turing_machine.md)
 + [Algorithms](/algorithms/)
 + [Hardware](/hardware/)
 + [Software](/software/)
