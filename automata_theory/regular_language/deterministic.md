@@ -1,6 +1,7 @@
 + [Regular language](/automata_theory/regular_language/regular_language.md)
 + [Alphabet](/automata_theory/basics/alphabet.md)
 + [State](/automata_theory/basics/state.md)
++ [Acceptor](/automata_theory/basics/acceptor.md)
 
 ## Deterministic finite automata
 

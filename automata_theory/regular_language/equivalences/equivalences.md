@@ -2,6 +2,8 @@
 + [NFA](/automata_theory/regular_language/nondeterministic.md)
 + [Epsilon NFA](/automata_theory/regular_language/epsilon.md)
 + [Regex](/automata_theory/regular_language/regex.md)
++ [Mealy machine](/automata_theory/regular_language/mealy_machine.md)
++ [Moore machine](/automata_theory/regular_language/moore_machine.md)
 
 ## Equivalences
 
@@ -17,4 +19,6 @@
     [Link](/automata_theory/regular_language/equivalences/5.md)
 6. Regex languages are DFA languages
     [Link](/automata_theory/regular_language/equivalences/6.md)
+7. TODO Mealy machines are Moore machines
+8. TODO Moore machines are Mealy machines
 
