@@ -1,4 +1,4 @@
-+ [Sequential chip](/hardware/chips/sequential.md)
++ [Sequential](/hardware/chips/sequential.md)
 + [Memory bank](/hardware/chips/memory_bank.md)
 + [CPU](/hardware/digital/cpu.md)
 

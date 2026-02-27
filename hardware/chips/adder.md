@@ -1,10 +1,10 @@
++ [Combinational](/hardware/chips/combinational.md)
 + [Half adder](/hardware/chips/half_adder.md)
 + [Full adder](/hardware/chips/full_adder.md)
 + [Unsigned binary](/hardware/arithmetic/unsigned_binary.md)
 + [Two's complement](/hardware/arithmetic/twos_complement.md)
 + [Ripple](/hardware/arithmetic/ripple.md)
 + [Carry look ahead](/hardware/arithmetic/carry_look_ahead.md)
-+ [Combinational](/hardware/chips/combinational.md)
 
 ## Multibit adder
 

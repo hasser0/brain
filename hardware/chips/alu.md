@@ -1,5 +1,4 @@
-+ [Twos complement](/hardware/arithmetic/twos_complement.md)
-+ [Unsigned binary](/hardware/arithmetic/unsigned_binary.md)
++ [Combinational](/hardware/chips/combinational.md)
 + [Adder](/hardware/chips/adder.md)
 + [Demultiplexor](/hardware/chips/demux.md)
 + [Multiplexor](/hardware/chips/mux.md)

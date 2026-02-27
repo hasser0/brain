@@ -1,4 +1,4 @@
-+ [Sequential chip](/hardware/chips/sequential.md)
++ [Sequential](/hardware/chips/sequential.md)
 + [Register](/hardware/chips/register.md)
 
 ## Memory bank

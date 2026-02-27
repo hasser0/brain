@@ -1,6 +1,5 @@
-+ [Logic gate](/hardware/basics/logic_gate.md)
++ [Sequential](/hardware/chips/sequential.md)
 + [Chip](/hardware/basics/chip.md)
-+ [Sequential chip](/hardware/chips/sequential.md)
 
 ## Combinational chips
 

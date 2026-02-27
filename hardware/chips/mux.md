@@ -1,4 +1,4 @@
-+ [Chip](/hardware/basics/chip.md)
++ [Combinational](/hardware/chips/combinational.md)
 
 ## Multiplexor
 

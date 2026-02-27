@@ -1,4 +1,4 @@
-+ [Sequential chip](/hardware/chips/sequential.md)
++ [Sequential](/hardware/chips/sequential.md)
 + [Control unit](/hardware/chips/control_unit.md)
 + [Instruction register](/hardware/chips/instruction_register.md)
 

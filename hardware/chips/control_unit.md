@@ -1,14 +1,11 @@
 + [CPU](/hardware/digital/cpu.md)
 + [Instruction set](/hardware/digital/instruction_set.md)
 
-+ [Sequential chip](/hardware/chips/sequential.md)
++ [Sequential](/hardware/chips/sequential.md)
 + [Register](/hardware/chips/register.md)
 + [Instruction register](/hardware/chips/instruction_register.md)
 + [Program counter](/hardware/chips/program_counter.md)
-
 + [ALU](/hardware/chips/alu.md)
-+ [Memory](/hardware/chips/memory_bank.md)
-+ [IO devices](/hardware/digital/io_devices.md)
 
 ## Control unit
 

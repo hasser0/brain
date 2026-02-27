@@ -1,4 +1,5 @@
-+ [Combinational chips](/hardware/chips/combinational.md)
++ [Combinational](/hardware/chips/combinational.md)
++ [Chip](/hardware/basics/chip.md)
 
 ## Sequential chips
 
