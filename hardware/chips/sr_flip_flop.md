@@ -1,4 +1,4 @@
 + [Sequential](/hardware/chips/sequential.md)
 
-## Flip flop
+## SR Flip flop
 TODO

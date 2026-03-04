@@ -11,7 +11,7 @@ current from previous state.
 Sequential chips loop back one or more outputs to the begining of the chip. Some
 of the most important sequential chips are
 
-+ Data flip flop
++ Flip flops
 + Register
 + Memory banks
 + Program counter
