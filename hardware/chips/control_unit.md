@@ -1,5 +1,5 @@
-+ [CPU](/hardware/digital/cpu.md)
-+ [Instruction set](/hardware/digital/instruction_set.md)
++ [CPU](/hardware/architecture/cpu.md)
++ [Instruction set](/hardware/architecture/instruction_set.md)
 
 + [Sequential](/hardware/chips/sequential.md)
 + [Register](/hardware/chips/register.md)

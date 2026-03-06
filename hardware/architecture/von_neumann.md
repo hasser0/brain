@@ -1,8 +1,8 @@
-+ [Stored procedure](/hardware/digital/stored_procedure.md)
++ [Stored procedure](/hardware/architecture/stored_procedure.md)
 + [Universal Turing](/automata_theory/recursive_enumerable_language/universal_turing.md)
-+ [CPU](/hardware/digital/cpu.md)
-+ [Memory mapped IO](/hardware/digital/memory_mapped_io.md)
-+ [Port mapped IO](/hardware/digital/port_mapped_io.md)
++ [CPU](/hardware/architecture/cpu.md)
++ [Memory mapped IO](/hardware/architecture/memory_mapped_io.md)
++ [Port mapped IO](/hardware/architecture/port_mapped_io.md)
 
 ## Von Neumann architecture
 

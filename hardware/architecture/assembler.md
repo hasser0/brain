@@ -1,4 +1,4 @@
-+ [Instruction set](/hardware/digital/instruction_set.md)
++ [Instruction set](/hardware/architecture/instruction_set.md)
 
 ## Assembler
 

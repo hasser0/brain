@@ -1,4 +1,4 @@
-+ [CPU](/hardware/digital/cpu.md)
++ [CPU](/hardware/architecture/cpu.md)
 + [Control unit](/hardware/chips/control_unit.md)
 + [Register](/hardware/chips/register.md)
 

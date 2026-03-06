@@ -1,7 +1,7 @@
 + [ALU](/hardware/chips/alu.md)
 + [Memory](/hardware/chips/memory_bank.md)
 + [Control unit](/hardware/chips/control_unit.md)
-+ [CPU](/hardware/digital/cpu.md)
++ [CPU](/hardware/architecture/cpu.md)
 
 ## Instruction set
 

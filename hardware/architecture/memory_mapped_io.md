@@ -1,7 +1,7 @@
-+ [CPU](/hardware/digital/cpu.md)
++ [CPU](/hardware/architecture/cpu.md)
 + [Memory](/hardware/chips/memory_bank.md)
-+ [IO devices](/hardware/digital/io_devices.md)
-+ [Port mapped IO](/hardware/digital/port_mapped_io.md)
++ [IO devices](/hardware/architecture/io_devices.md)
++ [Port mapped IO](/hardware/architecture/port_mapped_io.md)
 
 ## Memory mapped IO
 

@@ -2,7 +2,7 @@
 + [Register](/hardware/chips/register.md)
 + [ALU](/hardware/chips/alu.md)
 + [Memory](/hardware/chips/memory_bank.md)
-+ [IO devices](/hardware/digital/io_devices.md)
++ [IO devices](/hardware/architecture/io_devices.md)
 
 ## Central Processing Unit
 
