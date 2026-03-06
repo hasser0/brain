@@ -17,6 +17,3 @@ parameters
 + Register's word size
 + Address size
 
-Both determine the size of each element and the number of elements that the chip
-can handle
-
