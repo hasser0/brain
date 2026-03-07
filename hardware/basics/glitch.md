@@ -1,5 +1,5 @@
 + [Circuit](/hardware/basics/chip.md)
-+ [Timing](/hardware/basics/timing.md)
++ [Contamination](/hardware/timing/contamination.md)
 
 ## Glitch
 
