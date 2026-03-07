@@ -5,4 +5,5 @@
 + biological gates
 + physical gates
 + mathematical analog chips
++ asynchronous circuits and neuromorphic systems
 
