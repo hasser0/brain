@@ -1,5 +1,5 @@
 + [CPU](/hardware/architecture/cpu.md)
-+ [Memory](/hardware/chips/memory_bank.md)
++ [Memory](/hardware/chips/memory_array.md)
 + [IO devices](/hardware/architecture/io_devices.md)
 + [Port mapped IO](/hardware/architecture/port_mapped_io.md)
 

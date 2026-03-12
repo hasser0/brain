@@ -1,5 +1,5 @@
 + [ALU](/hardware/chips/alu.md)
-+ [Memory](/hardware/chips/memory_bank.md)
++ [Memory](/hardware/chips/memory_array.md)
 + [Control unit](/hardware/chips/control_unit.md)
 + [CPU](/hardware/architecture/cpu.md)
 
