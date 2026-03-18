@@ -8,3 +8,8 @@ all machines includes an assembler which in turn embeeds the set of instruction
 of the computer. The set of instructions and its semantics are an interface to
 the hardware.
 
+Some important concepts in assembly languages are
+
++ Conditional and unconditional jumps
++ Labels
+
