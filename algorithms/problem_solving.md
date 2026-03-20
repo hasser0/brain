@@ -16,4 +16,12 @@
     + Seek extremes
     + Seek ties
 + Use the correct language level to explain your algorithm
++ Four steps
+    + Understand
+    + Plan
+    + Code
+    + Reflect
++ Step away from the problem
++ 30 minutes approach alone
++ Create a proof of concept or pseudo code or diagrams
 
