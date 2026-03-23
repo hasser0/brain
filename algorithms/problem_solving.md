@@ -1,11 +1,11 @@
 ## Techniques
 
 + Incremental
++ Randomization
 + Recursion
 + Divide conquer
 + Data structure
 + Hashing
-+ Sorting
 
 ## Tips
 
