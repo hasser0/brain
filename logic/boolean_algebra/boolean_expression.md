@@ -1,5 +1,5 @@
-+ [Language](/automata_theory/basics/language.md)
-+ [Grammar](/automata_theory/grammar/grammar.md)
++ [Language](/automata/basics/language.md)
++ [Grammar](/automata/grammar/grammar.md)
 + [Connector](/logic/propositions/connector.md)
 + [Boolean operators](/logic/boolean_algebra/boolean_operators.md)
 

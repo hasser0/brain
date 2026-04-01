@@ -1,5 +1,5 @@
 + [Stored procedure](/hardware/architecture/stored_procedure.md)
-+ [Universal Turing](/automata_theory/recursive_enumerable_language/universal_turing.md)
++ [Universal Turing](/automata/recursive_enumerable_language/universal_turing.md)
 + [CPU](/hardware/architecture/cpu.md)
 + [Memory mapped IO](/hardware/architecture/memory_mapped_io.md)
 + [Port mapped IO](/hardware/architecture/port_mapped_io.md)

@@ -1,6 +1,6 @@
 + [Sequential](/hardware/chips/sequential.md)
-+ [Mealy machine](/automata_theory/regular_language/mealy_machine.md)
-+ [Moore machine](/automata_theory/regular_language/moore_machine.md)
++ [Mealy machine](/automata/regular_language/mealy_machine.md)
++ [Moore machine](/automata/regular_language/moore_machine.md)
 
 ## Finite state machine
 

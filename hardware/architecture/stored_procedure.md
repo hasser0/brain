@@ -1,5 +1,5 @@
-+ [Turing machine](/automata_theory/recursive_enumerable_language/turing_machine.md)
-+ [Universal Turing](/automata_theory/recursive_enumerable_language/universal_turing.md)
++ [Turing machine](/automata/recursive_enumerable_language/turing_machine.md)
++ [Universal Turing](/automata/recursive_enumerable_language/universal_turing.md)
 
 ## Stored procedure
 
