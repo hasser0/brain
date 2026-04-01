@@ -1,4 +1,4 @@
-+ [Selection sort](/dsa/algorithms/sorting/selection_sort.md)
++ [Selection sort](/dsa/algorithms/sorting/selection.md)
 + [Priority queue](/dsa/data_structure/adt/priority_queue.md)
 + [In-place algorihtm](/dsa/algorithms/inplace.md)
 
