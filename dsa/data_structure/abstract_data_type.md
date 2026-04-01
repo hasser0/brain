@@ -1,4 +1,4 @@
-+ [Data structures](/algorithms/data_structure/data_structure.md)
++ [Data structures](/dsa/data_structure/data_structure.md)
 
 ## Abstract data type
 

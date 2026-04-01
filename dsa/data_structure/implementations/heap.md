@@ -1,5 +1,5 @@
-+ [Data structure](/algorithms/data_structure/data_structure.md)
-+ [Priority queue](/algorithms/data_structure/adt/priority_queue.md)
++ [Data structure](/dsa/data_structure/data_structure.md)
++ [Priority queue](/dsa/data_structure/adt/priority_queue.md)
 
 ## Heap
 

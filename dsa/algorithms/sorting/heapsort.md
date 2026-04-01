@@ -1,6 +1,6 @@
-+ [Selection sort](/algorithms/sorting/selection_sort.md)
-+ [Priority queue](/algorithms/data_structure/adt/priority_queue.md)
-+ [In-place algorihtm](/algorithms/algorithms/inplace.md)
++ [Selection sort](/dsa/algorithms/sorting/selection_sort.md)
++ [Priority queue](/dsa/data_structure/adt/priority_queue.md)
++ [In-place algorihtm](/dsa/algorithms/inplace.md)
 
 ## Heapsort
 

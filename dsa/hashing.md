@@ -1,4 +1,4 @@
-+ [Contiguous memory](/algorithms/data_structure/contiguous.md)
++ [Contiguous memory](/dsa/data_structure/contiguous.md)
 
 ## Hashing
 

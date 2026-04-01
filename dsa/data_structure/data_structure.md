@@ -1,5 +1,5 @@
-+ [Contiguous](/algorithms/data_structure/contiguous.md)
-+ [Linked nodes](/algorithms/data_structure/linked.md)
++ [Contiguous](/dsa/data_structure/contiguous.md)
++ [Linked nodes](/dsa/data_structure/linked.md)
 
 ## Data structure
 

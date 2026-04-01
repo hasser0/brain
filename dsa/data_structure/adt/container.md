@@ -1,4 +1,4 @@
-+ [Abstract data type](/algorithms/data_structure/abstract_data_type.md)
++ [Abstract data type](/dsa/data_structure/abstract_data_type.md)
 
 ## Container
 

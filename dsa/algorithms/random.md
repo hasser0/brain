@@ -1,4 +1,4 @@
-+ [Quicksort](/algorithms/sorting/quicksort.md)
++ [Quicksort](/dsa/algorithms/sorting/quicksort.md)
 
 ## Random algorithms
 
