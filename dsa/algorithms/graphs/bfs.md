@@ -1,4 +1,5 @@
 + [Graph](/dsa/data_structure/adt/graph.md)
++ [Graph traversal](/dsa/problems/graph_traversal.md)
 + [Tree](/dsa/data_structure/adt/tree.md)
 + [Queue](/dsa/data_structure/adt/queue.md)
 

@@ -1,4 +1,5 @@
 + [Graph](/dsa/data_structure/adt/graph.md)
++ [Graph traversal](/dsa/problems/graph_traversal.md)
 + [BFS](/dsa/algorithms/graphs/bfs.md)
 + [Stack](/dsa/data_structure/adt/stack.md)
 

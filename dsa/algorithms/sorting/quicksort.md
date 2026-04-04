@@ -1,3 +1,7 @@
++ [Divide and conquer](/dsa/techniques/divide_conquer.md)
++ [Sorting](/dsa/problems/sorting.md)
++ [Randomize](/dsa/techniques/randomization.md)
+
 ## Quicksort
 
 1. Randomly select a pivot called p

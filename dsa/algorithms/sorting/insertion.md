@@ -1,3 +1,6 @@
++ [Greedy](/dsa/techniques/greedy.md)
++ [Sorting](/dsa/problems/sorting.md)
+
 ## Insertion sort
 
 1. Begin with an empty array or linked list

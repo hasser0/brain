@@ -1,5 +1,6 @@
++ [Data structure technique](/dsa/techniques/data_structure.md)
++ [Heap](/dsa/data_structure/implementations/heap.md)
 + [Selection sort](/dsa/algorithms/sorting/selection.md)
-+ [Priority queue](/dsa/data_structure/adt/priority_queue.md)
 + [In-place algorihtm](/dsa/algorithms/inplace.md)
 
 ## Heapsort
