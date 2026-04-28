@@ -16,7 +16,7 @@ there exists a unique function $h: \omega\mapsto A$ such that
 
 ### Proof
 
-Let $H$ be the set of all functions that satisfy the above conditions. $H$ is
-not empty since $\{(0,a)\}\in H$ and let $h = \cup H$ then $h$ is a unique
-function such that $\text{dom}\ h = \omega$ and satifies the above conditions
+The set of all functions that satisfy the above conditions $H$ is not empty
+since $\{(0,a)\}\in H$. Let $h = \cup H$ then $h$ is a unique function such that
+$\text{dom}\ h = \omega$ and satifies the above conditions
 
