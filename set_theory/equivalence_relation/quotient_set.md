@@ -1,4 +1,5 @@
 + [Equivalence relations](/set_theory/equivalence_relation/equivalence_class.md)
++ [Equivalence class](/set_theory/equivalence_relation/equivalence_class.md)
 
 ## Quotient set
 
