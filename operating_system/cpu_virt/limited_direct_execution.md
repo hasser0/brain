@@ -1,7 +1,7 @@
 + [Mechanism](/operating_system/mechanism.md)
-+ [Syscalls](/operating_system/syscalls.md)
-+ [Trap table](/operating_system/trap_table.md)
-+ [Kernel and User mode](/operating_system/kernel_user_mode.md)
++ [Syscalls](/operating_system/cpu_virt/syscalls.md)
++ [Trap table](/operating_system/cpu_virt/trap_table.md)
++ [Kernel and User mode](/operating_system/cpu_virt/kernel_user_mode.md)
 
 ## Limited Direct Execution
 

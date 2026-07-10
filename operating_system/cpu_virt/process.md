@@ -1,11 +1,11 @@
 + [Virtualization](/operating_system/virtualization.md)
 + [CPU](/hardware/architecture/cpu.md)
 + [Program](/operating_system/program.md)
-+ [Machine state](/operating_system/machine_state.md)
-+ [Context switch](/operating_system/context_switch.md)
++ [Machine state](/operating_system/cpu_virt/machine_state.md)
++ [Context switch](/operating_system/cpu_virt/context_switch.md)
 + [Schedule policy](/operating_system/schedule/schedule_policy.md)
-+ [Process list](/operating_system/process_list.md)
-+ [Process state](/operating_system/process_state.md)
++ [Process list](/operating_system/cpu_virt/process_list.md)
++ [Process state](/operating_system/cpu_virt/process_state.md)
 
 ## Process
 

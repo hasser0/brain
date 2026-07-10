@@ -1,5 +1,5 @@
 + [Mechanism](/operating_system/mechanism.md)
-+ [Machine state](/operating_system/machine_state.md)
++ [Machine state](/operating_system/cpu_virt/machine_state.md)
 
 ## Context switch
 
