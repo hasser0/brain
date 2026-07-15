@@ -1,4 +1,4 @@
-+ [Policy Schedule](/operating_system/schedule/schedule_policy.md)
++ [Scheduler](/operating_system/cpu_virt/scheduler.md)
 
 ## Metrics
 

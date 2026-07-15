@@ -1,5 +1,5 @@
-+ [Policy schedule](/operating_system/schedule/schedule_policy.md)
-+ [Preemptive](/operating_system/schedule/preemptive.md)
++ [Scheduler](/operating_system/cpu_virt/scheduler.md)
++ [Preemptive](/operating_system/cpu_virt/schedule/preemptive.md)
 
 ## FIFO
 

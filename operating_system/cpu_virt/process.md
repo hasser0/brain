@@ -3,7 +3,7 @@
 + [Program](/operating_system/program.md)
 + [Machine state](/operating_system/cpu_virt/machine_state.md)
 + [Context switch](/operating_system/cpu_virt/context_switch.md)
-+ [Schedule policy](/operating_system/schedule/schedule_policy.md)
++ [Schedule policy](/operating_system/cpu_virt/scheduler.md)
 + [Process list](/operating_system/cpu_virt/process_list.md)
 + [Process state](/operating_system/cpu_virt/process_state.md)
 

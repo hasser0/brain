@@ -1,4 +1,4 @@
-+ [Policy schedule](/operating_system/schedule/schedule_policy.md)
++ [Scheduler](/operating_system/cpu_virt/scheduler.md)
 + [Syscall](/operating_system/cpu_virt/syscalls.md)
 
 ## Cooperative

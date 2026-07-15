@@ -1,6 +1,6 @@
-+ [Policy schedule](/operating_system/schedule/schedule_policy.md)
-+ [Preemptive](/operating_system/schedule/preemptive.md)
-+ [SJF](/operating_system/schedule/sjf.md)
++ [Scheduler](/operating_system/cpu_virt/scheduler.md)
++ [Preemptive](/operating_system/cpu_virt/schedule/preemptive.md)
++ [SJF](/operating_system/cpu_virt/schedule/sjf.md)
 
 ## Shortest Time to Completion First
 
