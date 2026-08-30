@@ -20,5 +20,5 @@ where
 5. Final states $F$
 
 The string $w$ is accepted by the deterministic automata if the state reached
-$q$ is in $F$
+$q\in F$
 

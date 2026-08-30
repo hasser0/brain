@@ -8,17 +8,13 @@
 ## Equivalences
 
 1. Epsilon NFA languages are NFA languages
-    [Link](/automata/regular_language/equivalences/1.md)
-2. NFA languages are Epsilon NFA languages
-    [Link](/automata/regular_language/equivalences/2.md)
+    [NFA from eNFA](/automata/regular_language/constructions/nfa_from_enfa.md)
+2. NFA languages are Epsilon NFA languages: subcase
 3. NFA languages are DFA languages
-    [Link](/automata/regular_language/equivalences/3.md)
-4. DFA languages are NFA languages
-    [Link](/automata/regular_language/equivalences/4.md)
+    [Subset Construction](/automata/regular_language/constructions/subset_construction.md)
+4. DFA languages are NFA languages: subcase
 5. DFA languages are regex languages
-    [Link](/automata/regular_language/equivalences/5.md)
+    [Kleene's construction](/automata/regular_language/constructions/kleene_construction.md)
 6. Regex languages are DFA languages
-    [Link](/automata/regular_language/equivalences/6.md)
-7. TODO Mealy machines are Moore machines
-8. TODO Moore machines are Mealy machines
+    [DFA from regex](/automata/regular_language/constructions/dfa_from_regex.md)
 
