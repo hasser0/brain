@@ -21,7 +21,7 @@ A regular language is a set of strings represented by a finite automata $A$
 + $L - M$ equals to $L\cap M^c $ is regular language
 + $L^R$, the language reversing all $L$ strings, is a regular language
 
-Let $h:\Sigma\mapsto T^*$ be an homomorphism
+Let $h:\Sigma^*\mapsto T^*$ be an homomorphism
 
 + $h(L)=\{h(w)\in T^*|w\in L\}$ is a regular language
 + $h^{-1}(L)=\{x\in\Sigma^*|h(x)\in L\}$ is a regular language
