@@ -13,3 +13,16 @@ $$
 \alpha\Rightarrow\beta\equiv\alpha\rightarrow\gamma_1\cdots\gamma_n\rightarrow\beta
 $$
 
+## Terminal rule
+
+A terminal rule is such that it has only terminal symbols on the right side
+
+## Empty rule
+
+$A\mapsto\varepsilon$
+
+## Unitary rule
+
+An unitary rule is such that it maps a non terminal to another non terminal
+symbol. For example $A\mapsto B$
+
