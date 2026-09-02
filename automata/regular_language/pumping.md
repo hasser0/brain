@@ -14,7 +14,9 @@ Proof.
 Let $n$ be the number of states of the automata corresponding to $L$ and
 $w\in L$ such that $|w|=m>n$ then by the pigeon hole principle exists
 $1\le i\neq j\le n$ such that
-$\delta(p_0,w_1\cdots w_i) = \delta(p_0, w_1\cdots w_j)$
+$$
+\delta(p_0,w_1\cdots w_i) = \delta(p_0, w_1\cdots w_j)
+$$
 and $w = w_1\cdots w_i\cdots w_j\cdots w_n = xw_i\cdots w_j z = xyz$
 and for any $k\ge 0$ $xy^kz\in L$
 
