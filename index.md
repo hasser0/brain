@@ -1,31 +1,3 @@
-## Table of contents
-
-+ [Logic](/logic/)
-    + [Boolean algebra](/logic/boolean_algebra/)
-    + [Propositional logic](/logic/propositions/)
-+ [Set theory](/set_theory/)
-    + [Axioms](/set_theory/axioms/)
-    + [Relations](/set_theory/relations/)
-    + [Equivalence relations](/set_theory/equivalence_relation/)
-    + [Functions](/set_theory/functions/)
-    + [Numbers](/set_theory/numbers/)
-+ [Automata theory](/automata/)
-    + [Regular languages](/automata/regular_language/)
-        + [DFA](/automata/regular_language/deterministic.md)
-        + [NFA](/automata/regular_language/nondeterministic.md)
-        + [e-DFA](/automata/regular_language/epsilon.md)
-        + [Regex](/automata/regular_language/regex.md)
-    + [Context free languages](/automata/context_free_language/)
-        + [PDA](/automata/context_free_language/pushdown_automata.md)
-        + [DPDA](/automata/context_free_language/deterministic_pushdown_automata.md)
-        + [CFG](/automata/context_free_language/context_free_grammar.md)
-    + [Recursive enumerable languages](/automata/recursive_enumerable_language/)
-        + [Turing machine](/automata/recursive_enumerable_language/turing_machine.md)
-+ [Algorithms](/algorithms/)
-+ [Hardware](/hardware/)
-+ [Software](/software/)
-
-
 ## Classification
 
 The notes in this repository are classified based on the [2020 Mathematics
