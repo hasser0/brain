@@ -1,5 +1,5 @@
-+ [Non logical symbol](/logic/formal_theory/non_logical_symbols.md)
-+ [Intepretation](/logic/formal_theory/interpretation.md)
++ [Non logical symbol](/math_foundations/formal_theory/non_logical_symbols.md)
++ [Intepretation](/math_foundations/formal_theory/interpretation.md)
 
 ## Statement letter
 

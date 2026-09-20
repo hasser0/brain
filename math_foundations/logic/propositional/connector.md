@@ -1,5 +1,5 @@
-+ [Function](/set_theory/functions/functions.md)
-+ [Logical symbols](/logic/formal_theory/logical_symbols.md)
++ [Function](/math_foundations/set_theory/functions/functions.md)
++ [Logical symbols](/math_foundations/formal_theory/logical_symbols.md)
 + [Statement form](/math_foundations/logic/propositional/statement_form.md)
 
 ## Connector

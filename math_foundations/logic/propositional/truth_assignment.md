@@ -1,6 +1,6 @@
 + [Statement letter](/math_foundations/logic/propositional/statement_letter.md)
 + [Statement form](/math_foundations/logic/propositional/statement_form.md)
-+ [Interpretation](/logic/formal_theory/interpretation.md)
++ [Interpretation](/math_foundations/formal_theory/interpretation.md)
 
 ## Truth value
 

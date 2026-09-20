@@ -1,5 +1,5 @@
 + [Connector](/math_foundations/logic/propositional/connector.md)
-+ [Well formed formula](/logic/formal_theory/well_formed_formula.md)
++ [Well formed formula](/math_foundations/formal_theory/well_formed_formula.md)
 + [Statement letter](/math_foundations/logic/propositional/statement_letter.md)
 
 ## Statement form
