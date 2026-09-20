@@ -1,4 +1,4 @@
-+ [Digital gates](/computer_systems/hardware/basics/math_foundations/logic_gate.md)
++ [Digital gates](/computer_systems/hardware/basics/logic_gate.md)
 
 ## Logic families
 

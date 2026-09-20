@@ -1,4 +1,4 @@
-+ [Logic gate](/computer_systems/hardware/basics/math_foundations/logic_gate.md)
++ [Logic gate](/computer_systems/hardware/basics/logic_gate.md)
 + [Boolean function](/math_foundations/logic/boolean_algebra/boolean_function.md)
 + [Abstraction](/computer_systems/hardware/basics/abstraction.md)
 + [Interface](/computer_systems/hardware/basics/interface.md)

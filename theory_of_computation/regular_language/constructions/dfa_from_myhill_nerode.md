@@ -1,6 +1,6 @@
 + [DFA](/theory_of_computation/regular_language/deterministic.md)
 + [Quotient set](/math_foundations/set_theory/equivalence_relation/quotient_set.md)
-+ [Myhill Nerode relation](/theory_of_computation/regular_language/constructions/myhill_nerode_relation.md)
++ [Myhill Nerode relation](/theory_of_computation/regular_language/myhill_nerode_relation.md)
 
 ## DFA from MN relation
 

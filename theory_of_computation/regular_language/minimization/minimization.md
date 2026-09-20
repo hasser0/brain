@@ -1,5 +1,5 @@
 + [States equivalence](/theory_of_computation/regular_language/minimization/states_equivalence.md)
-+ [Automata equivalence](/theory_of_computation/regular_language/minimization/theory_of_computation_equivalence.md)
++ [Automata equivalence](/theory_of_computation/regular_language/constructions/equivalences.md)
 
 ## Minimization
 
