@@ -1,6 +1,6 @@
-+ [Simple proposition](/logic/propositions/simple_proposition.md)
-+ [Composite proposition](/logic/propositions/composite_proposition.md)
-+ [Truth value](/logic/propositions/truth_value.md)
++ [Simple proposition](/logic/propositional/simple_proposition.md)
++ [Composite proposition](/logic/propositional/composite_proposition.md)
++ [Truth value](/logic/propositional/truth_value.md)
 
 ## Truth value
 

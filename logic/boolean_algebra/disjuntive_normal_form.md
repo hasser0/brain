@@ -1,5 +1,5 @@
 + [Boolean expression](/logic/boolean_algebra/boolean_expression.md)
-+ [Truth table](/logic/propositions/truth_table.md)
++ [Truth table](/logic/propositional/truth_table.md)
 + [Minterm](/logic/boolean_algebra/minterm.md)
 
 ## Disjuntive normal form (DNF)

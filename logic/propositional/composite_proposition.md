@@ -1,4 +1,4 @@
-+ [Connector](/logic/propositions/connector.md)
++ [Connector](/logic/propositional/connector.md)
 
 ## Composite proposition
 

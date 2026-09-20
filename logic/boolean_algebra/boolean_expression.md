@@ -1,6 +1,6 @@
 + [Language](/automata/basics/language.md)
 + [Grammar](/automata/grammar/grammar.md)
-+ [Connector](/logic/propositions/connector.md)
++ [Connector](/logic/propositional/connector.md)
 + [Boolean operators](/logic/boolean_algebra/boolean_operators.md)
 
 ## Boolean expression

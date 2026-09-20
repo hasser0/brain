@@ -1,5 +1,5 @@
 + [Function](/set_theory/functions/functions.md)
-+ [Truth table](/logic/propositions/truth_table.md)
++ [Truth table](/logic/propositional/truth_table.md)
 + [Boolean expression](/logic/boolean_algebra/boolean_expression.md)
 + [DNF](/logic/boolean_algebra/disjuntive_normal_form.md)
 

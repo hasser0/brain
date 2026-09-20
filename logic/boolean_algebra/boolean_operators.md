@@ -1,5 +1,5 @@
 + [Boolean expression](/logic/boolean_algebra/boolean_expression.md)
-+ [Logical connectors](/logic/propositions/connector.md)
++ [Logical connectors](/logic/propositional/connector.md)
 
 ## Boolean operators
 

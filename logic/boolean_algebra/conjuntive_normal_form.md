@@ -1,5 +1,5 @@
 + [Boolean expression](/logic/boolean_algebra/boolean_expression.md)
-+ [Truth table](/logic/propositions/truth_table.md)
++ [Truth table](/logic/propositional/truth_table.md)
 + [Maxterm](/logic/boolean_algebra/maxterm.md)
 
 ## Conjuntive normal form (CNF)
