@@ -1,5 +1,5 @@
 + [DFA](/automata/regular_language/deterministic.md)
-+ [Quotient set](/set_theory/equivalence_relation/quotient_set.md)
++ [Quotient set](/foundations/set_theory/equivalence_relation/quotient_set.md)
 + [Myhill Nerode relation](/automata/regular_language/constructions/myhill_nerode_relation.md)
 
 ## MN relation from DFA

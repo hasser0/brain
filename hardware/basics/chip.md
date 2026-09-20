@@ -1,5 +1,5 @@
-+ [Logic gate](/hardware/basics/logic_gate.md)
-+ [Boolean function](/logic/boolean_algebra/boolean_function.md)
++ [Logic gate](/hardware/basics/foundations/logic_gate.md)
++ [Boolean function](/foundations/logic/boolean_algebra/boolean_function.md)
 + [Abstraction](/hardware/basics/abstraction.md)
 + [Interface](/hardware/basics/interface.md)
 

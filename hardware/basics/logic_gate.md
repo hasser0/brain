@@ -1,6 +1,6 @@
 + [Abstraction](/hardware/basics/abstraction.md)
-+ [Connectors](/logic/propositional/connector.md)
-+ [Boolean function](/logic/boolean_algebra/boolean_function.md)
++ [Connectors](/foundations/logic/propositional/connector.md)
++ [Boolean function](/foundations/logic/boolean_algebra/boolean_function.md)
 
 ## Logic gate
 

@@ -1,9 +1,9 @@
 + [DFA](/automata/regular_language/deterministic.md)
 + [Minimization](/automata/regular_language/minimization/minimization.md)
 + [Equivalent states](/automata/regular_language/minimization/states_equivalence.md)
-+ [Equivalence relation](/set_theory/equivalence_relation/equivalence_relation.md)
-+ [Equivalence class](/set_theory/equivalence_relation/equivalence_class.md)
-+ [Quotient class](/set_theory/equivalence_relation/quotient_set.md)
++ [Equivalence relation](/foundations/set_theory/equivalence_relation/equivalence_relation.md)
++ [Equivalence class](/foundations/set_theory/equivalence_relation/equivalence_class.md)
++ [Quotient class](/foundations/set_theory/equivalence_relation/quotient_set.md)
 
 ## Quotient construction
 

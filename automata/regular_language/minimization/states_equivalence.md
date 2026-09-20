@@ -1,4 +1,4 @@
-+ [Equivalence relation](/set_theory/equivalence_relation/equivalence_relation.md)
++ [Equivalence relation](/foundations/set_theory/equivalence_relation/equivalence_relation.md)
 + [State](/automata/basics/state.md)
 
 ## States equivalences

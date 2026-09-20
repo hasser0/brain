@@ -1,4 +1,4 @@
-+ [Logic gate](/hardware/basics/logic_gate.md)
++ [Logic gate](/hardware/basics/foundations/logic_gate.md)
 + [Chip](/hardware/basics/chip.md)
 
 ## Implementation

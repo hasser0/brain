@@ -1,6 +1,6 @@
-+ [Logic gate](/hardware/basics/logic_gate.md)
-+ [Truth table](/logic/propositional/truth_table.md)
-+ [Boolean expression](/logic/boolean_algebra/boolean_expression.md)
++ [Logic gate](/hardware/basics/foundations/logic_gate.md)
++ [Truth table](/foundations/logic/propositional/truth_table.md)
++ [Boolean expression](/foundations/logic/boolean_algebra/boolean_expression.md)
 
 ## Interface
 
