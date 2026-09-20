@@ -1,0 +1,17 @@
++ [Transducer](/theory_of_computation/basics/transducer.md)
++ [DFA](/theory_of_computation/regular_language/deterministic.md)
++ [Moore machine](/theory_of_computation/regular_language/moore_machine.md)
+
+## Mealy machine
+
+A Mealy machine, similar to Moore machine, is a transducer that creates and
+output on each transition.
+
+Formally, a Mealy machine is a tuple
+$$
+M_e=\langle Q,\Sigma,\Theta,\delta,\lambda,q_0\rangle
+$$
+similar to Moore machine, except for $\lambda: Q\times\Sigma\rightarrow Q$ that
+is not attached to states but to transitions as $\delta$ transition function
+does.
+

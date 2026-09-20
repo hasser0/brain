@@ -1,4 +1,4 @@
-+ [Logic gates](/hardware/basics/foundations/logic_gate.md)
++ [Logic gates](/computer_systems/hardware/basics/math_foundations/logic_gate.md)
 
 ## Unconventional computing
 
